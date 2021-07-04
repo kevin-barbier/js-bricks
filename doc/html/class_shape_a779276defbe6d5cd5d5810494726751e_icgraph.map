@@ -1,0 +1,9 @@
+<map id="Shape::rotation" name="Shape::rotation">
+<area shape="rect" id="node2" href="$class_shape.html#a09a0cc88f7413bdc086bc13000e7b5c5" title="Constructor. " alt="" coords="164,5,296,32"/>
+<area shape="rect" id="node3" href="$class_shape.html#a524579bfe094f6bee0313432ec42d582" title="Return the shape data with the current rotation. " alt="" coords="179,56,281,83"/>
+<area shape="rect" id="node4" href="$class_shape.html#a429780268832435341860cb172938662" title="Return the width of the shape (in number of bricks) with the current rotation. " alt="" coords="346,5,445,32"/>
+<area shape="rect" id="node6" href="$class_shape.html#aad7b4be8f8fb82025b9ebedd0d898a0e" title="Draw the shape on the drawing area. " alt="" coords="517,56,611,83"/>
+<area shape="rect" id="node7" href="$class_shape.html#aa96546ac66fd72e015b8cc7e4a6986e7" title="Return the height of the shape (in number of bricks) with the current rotation. " alt="" coords="344,107,447,133"/>
+<area shape="rect" id="node5" href="$class_shape.html#a60ad93f1d8b57cec99a0b2156d226e80" title="Set the X position to the center of an X axis of width &lt;logicWidth&gt; " alt="" coords="495,5,633,32"/>
+<area shape="rect" id="node8" href="$class_shape.html#aa54e253d21e49146ecf345a3a4715823" title="Set the Y position to the center of an Y axis of height &lt;logicHeight&gt; " alt="" coords="495,107,633,133"/>
+</map>

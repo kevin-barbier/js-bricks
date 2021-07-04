@@ -1,0 +1,5 @@
+<map id="Score::constructor" name="Score::constructor">
+<area shape="rect" id="node2" href="$class_score.html#a4b233eeaf571244e60dfac7446bb0443" title="Reset the score, number of line and level and update text areas. " alt="" coords="183,5,276,32"/>
+<area shape="rect" id="node3" href="$class_score.html#aa8886c71d6bab0ac2443db7fc60e2ad0" title="Get accessor for the score propertie. " alt="" coords="535,5,631,32"/>
+<area shape="rect" id="node4" href="$class_score.html#af06cfff7e27174ef39a5184a95438535" title="Update the text areas with the current score, level and number of lines. " alt="" coords="324,31,487,57"/>
+</map>

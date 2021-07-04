@@ -1,0 +1,7 @@
+<map id="NextShape::position" name="NextShape::position">
+<area shape="rect" id="node2" href="$class_next_shape.html#a283a7d37eb0ec64a9d1909d9222a9dff" title="Constructor. " alt="" coords="194,5,354,32"/>
+<area shape="rect" id="node3" href="$class_next_shape.html#ab5a1dcc7a3f9b2207f3b870a2a4406b0" title="Moves one position to the left. " alt="" coords="199,56,349,83"/>
+<area shape="rect" id="node4" href="$class_next_shape.html#a4046f55830a377dff91aa0c85fc6d4be" title="Moves one position to the right. " alt="" coords="195,107,353,133"/>
+<area shape="rect" id="node5" href="$class_next_shape.html#afbe8d9d13f55079c805f1caab71a3012" title="Moves down of one position. " alt="" coords="193,157,355,184"/>
+<area shape="rect" id="node6" href="$class_next_shape.html#aa22bebfb4f775c1ca3882f8cdaefabdc" title="Draw the shape on the drawing area. " alt="" coords="213,208,335,235"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Game::launchTimer" name="Game::launchTimer">
+<area shape="rect" id="node2" href="$class_game.html#a9df1e2f26175c9ffb498fc10d76c2bc6" title="Get accessor for the score propertie. " alt="" coords="246,5,343,32"/>
+<area shape="rect" id="node3" href="$class_game.html#abda3062cdfe0ec51e260429041dcdc21" title="Get accessor for the timerCurrentShape propertie. " alt="" coords="207,56,382,83"/>
+<area shape="rect" id="node4" href="$class_game.html#ace1529c562f035c74f9833d57a85ce78" title="Move down current shape. " alt="" coords="189,107,400,133"/>
+</map>

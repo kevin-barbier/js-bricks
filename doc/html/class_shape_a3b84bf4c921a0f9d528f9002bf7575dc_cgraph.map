@@ -1,0 +1,5 @@
+<map id="Shape::rotate" name="Shape::rotate">
+<area shape="rect" id="node2" href="$class_shape.html#a429780268832435341860cb172938662" title="Return the width of the shape (in number of bricks) " alt="" coords="155,5,254,32"/>
+<area shape="rect" id="node3" href="$class_shape.html#a524579bfe094f6bee0313432ec42d582" title="Get accessor for the shape propertie. " alt="" coords="304,56,407,83"/>
+<area shape="rect" id="node4" href="$class_shape.html#aa96546ac66fd72e015b8cc7e4a6986e7" title="Return the height of the shape (in number of bricks) " alt="" coords="153,107,256,133"/>
+</map>

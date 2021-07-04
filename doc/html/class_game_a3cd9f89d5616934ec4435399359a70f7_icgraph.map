@@ -1,0 +1,4 @@
+<map id="Game::pauseStatus" name="Game::pauseStatus">
+<area shape="rect" id="node2" href="$class_game.html#aa69a2187ac68f4595b0f5811bc371e09" title="Process keyboard events. " alt="" coords="192,5,392,32"/>
+<area shape="rect" id="node3" href="$class_game.html#ae4640774af83364aca9408c5255fa341" title="Create a new game (reset everything) " alt="" coords="230,56,354,83"/>
+</map>

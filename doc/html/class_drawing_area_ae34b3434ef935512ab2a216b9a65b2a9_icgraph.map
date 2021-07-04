@@ -1,0 +1,8 @@
+<map id="DrawingArea::context" name="DrawingArea::context">
+<area shape="rect" id="node2" href="$class_drawing_area.html#addf7234a9c3e303184df19dbecadf93b" title="Constructor. " alt="" coords="211,5,382,32"/>
+<area shape="rect" id="node3" href="$class_drawing_area.html#a08053d14a6862531a3b4bf99728d596d" title="Return the width of the drawing area. " alt="" coords="229,56,365,83"/>
+<area shape="rect" id="node4" href="$class_drawing_area.html#a2137522f1ab863f6cf7c458f7d1f4c5b" title="Clear the screen. " alt="" coords="440,107,573,133"/>
+<area shape="rect" id="node5" href="$class_drawing_area.html#aff692bdc5e12dbbeebcae1f99e609ae7" title="Return the height of the drawing area. " alt="" coords="227,157,367,184"/>
+<area shape="rect" id="node6" href="$class_drawing_area.html#a7625f09d0fe373083443d740aeba67f6" title="Draw a square on the drawing area. " alt="" coords="209,208,384,235"/>
+<area shape="rect" id="node7" href="$class_drawing_area.html#a9ffb388f7eb87f3569d8cfc9b9234b88" title="Draw a fill square on the drawing area. " alt="" coords="201,259,392,285"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="NextShape::constructor" name="NextShape::constructor">
+<area shape="rect" id="node2" href="$class_next_shape.html#a5741171d49265193f4edf835abfdb141" title="Get accessor for the position propertie. " alt="" coords="240,5,380,32"/>
+<area shape="rect" id="node3" href="$class_next_shape.html#a0ca2f4c7691cce02e4471d80b7893a2a" title="Get accessor for the color propertie. " alt="" coords="249,56,371,83"/>
+<area shape="rect" id="node4" href="$class_next_shape.html#a7f2af7f135a825bb3bac04ba86ab440d" title="Return a random color. " alt="" coords="213,107,407,133"/>
+<area shape="rect" id="node6" href="$class_next_shape.html#af38151fe5c4e8df5b9b30b9fb56806b8" title="Get accessor for the rotation propertie. " alt="" coords="241,157,379,184"/>
+<area shape="rect" id="node5" href="$class_math.html#a7efa35bc33b5d22e78cf1d3560d61fc6" title="Return a random integer between min and max included. " alt="" coords="455,107,596,133"/>
+</map>

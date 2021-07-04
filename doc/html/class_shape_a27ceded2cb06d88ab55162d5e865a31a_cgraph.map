@@ -1,0 +1,5 @@
+<map id="Shape::constructor" name="Shape::constructor">
+<area shape="rect" id="node2" href="$class_shape.html#a7cfca9a9e6b62de5d61acda63b5a8245" title="Shape::color" alt="" coords="221,5,315,32"/>
+<area shape="rect" id="node3" href="$class_shape.html#ae5cc046dd2aaa44cbac6189d2f3c06ac" title="Return a random color. " alt="" coords="185,56,351,83"/>
+<area shape="rect" id="node4" href="$class_math.html#a7efa35bc33b5d22e78cf1d3560d61fc6" title="Return a random integer between min and max included. " alt="" coords="399,56,540,83"/>
+</map>

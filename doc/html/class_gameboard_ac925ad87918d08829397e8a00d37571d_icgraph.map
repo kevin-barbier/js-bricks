@@ -1,0 +1,5 @@
+<map id="Gameboard::checkCollision" name="Gameboard::checkCollision">
+<area shape="rect" id="node2" href="$class_gameboard.html#ad4e0a9bff40b6a0503d6362d3aacbba6" title="Check if the game is lost. " alt="" coords="258,5,423,32"/>
+<area shape="rect" id="node3" href="$class_gameboard.html#a3e416ff23db16568777eb2ec28124ca5" title="If possible move the current shape of specified offsets/rotation and redraw the gameboard. " alt="" coords="236,56,445,83"/>
+<area shape="rect" id="node4" href="$class_gameboard.html#a311b2e788a9c497414f481982fcaf735" title="Move down the current shape. " alt="" coords="493,49,700,90"/>
+</map>

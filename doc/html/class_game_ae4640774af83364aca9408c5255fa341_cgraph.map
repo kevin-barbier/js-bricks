@@ -1,0 +1,12 @@
+<map id="Game::newGame" name="Game::newGame">
+<area shape="rect" id="node2" href="$class_game.html#ab852caa664ac48685709988c8ca6d9e9" title="Remove the timer to move down the current shape. " alt="" coords="205,5,347,32"/>
+<area shape="rect" id="node4" href="$class_game.html#afac5635db60f1721c66dc9761b7fe254" title="Remove the callback for all keypress events. " alt="" coords="177,157,375,184"/>
+<area shape="rect" id="node5" href="$class_game.html#a3cd9f89d5616934ec4435399359a70f7" title="Get accessor for the pauseStatus propertie. " alt="" coords="207,208,345,235"/>
+<area shape="rect" id="node6" href="$class_game.html#a9df1e2f26175c9ffb498fc10d76c2bc6" title="Get accessor for the score propertie. " alt="" coords="479,107,577,133"/>
+<area shape="rect" id="node7" href="$class_game.html#a3e956e099cbc3390733c32ef0f7bb11c" title="Get accessor for the gameboard propertie. " alt="" coords="211,259,341,285"/>
+<area shape="rect" id="node8" href="$class_game.html#abf3b2d186df9adcfdf58f4804f33bc77" title="Get accessor for the nextShape propertie. " alt="" coords="213,309,339,336"/>
+<area shape="rect" id="node9" href="$class_game.html#a61a16033f816eb7b2d96909c52794bd9" title="Attach the callback for all keypress events. " alt="" coords="181,360,371,387"/>
+<area shape="rect" id="node10" href="$class_game.html#af0b4f05815b92e70bd82734e3f9d4363" title="Game::launchTimer" alt="" coords="208,56,344,83"/>
+<area shape="rect" id="node3" href="$class_game.html#abda3062cdfe0ec51e260429041dcdc21" title="Get accessor for the timerCurrentShape propertie. " alt="" coords="441,5,615,32"/>
+<area shape="rect" id="node11" href="$class_game.html#ace1529c562f035c74f9833d57a85ce78" title="Move down current shape. " alt="" coords="423,56,633,83"/>
+</map>

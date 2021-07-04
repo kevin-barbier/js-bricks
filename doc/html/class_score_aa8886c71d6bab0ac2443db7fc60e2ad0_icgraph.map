@@ -1,0 +1,6 @@
+<map id="Score::score" name="Score::score">
+<area shape="rect" id="node2" href="$class_score.html#af06cfff7e27174ef39a5184a95438535" title="Update the text areas with the current score, level and number of lines. " alt="" coords="149,31,312,57"/>
+<area shape="rect" id="node3" href="$class_score.html#ab6a9570ec1946ef44a2c0814d83312a9" title="The player made lines. " alt="" coords="365,5,449,32"/>
+<area shape="rect" id="node4" href="$class_score.html#a4b233eeaf571244e60dfac7446bb0443" title="Reset the score, number of line and level and update text areas. " alt="" coords="360,68,453,95"/>
+<area shape="rect" id="node5" href="$class_score.html#a86bd0e96b333e2bb87dfd87d395fabe0" title="Constructor. " alt="" coords="501,68,631,95"/>
+</map>

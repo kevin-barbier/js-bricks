@@ -1,0 +1,50 @@
+h1
+{
+  text-align: center;
+  padding-bottom: 2em;
+}
+      
+#main
+{
+  text-align: center;
+}
+
+#scoreArea
+{
+  display: inline-block;
+  vertical-align: middle;
+  padding-right: 5em;
+}
+
+#canvasGameboard
+{
+  display: inline-block;
+  vertical-align: middle;
+}
+
+#nextShape
+{
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 5em;
+  margin-bottom: auto;
+}
+      
+canvas
+{
+  border-style: solid;
+  border-width: thin;
+}
+
+#italic
+{
+  font-style: italic;
+}
+
+#controls
+{
+  padding-top: 5em;
+  text-align: center;
+  font-style: italic;
+  font-size: 50%;
+}

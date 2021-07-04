@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+
+<html>
+  <head>
+    <title>Bricks</title>
+    
+    <link rel="stylesheet" type="text/css" href="main.css">
+   
+    <script src="config.js" type="text/javascript"></script>
+   
+    <script src="tools/Enum.js" type="text/javascript"></script>
+    <script src="tools/Event.js" type="text/javascript"></script>
+    <script src="tools/Array.js" type="text/javascript"></script>
+    <script src="tools/Math.js" type="text/javascript"></script>
+    <script src="tools/DrawingArea.js" type="text/javascript"></script>
+        
+    <script src="Score.js" type="text/javascript"></script>
+    <script src="Position.js" type="text/javascript"></script>
+    
+    <script src="Brick.js" type="text/javascript"></script>
+    <script src="Shape.js" type="text/javascript"></script>
+    <script src="ShapeFactory.js" type="text/javascript"></script>
+    <script src="NextShape.js" type="text/javascript"></script>
+    <script src="Gameboard.js" type="text/javascript"></script>
+       
+    <script src="Game.js" type="text/javascript"></script>
+
+    <script>
+      function main()
+      {
+        var game;
+        
+        game = new Game();
+        game.newGame();
+      }
+    </script>
+  </head>
+  
+  <body onload="main()">
+    <h1>Bricks</h1>
+    
+    <div id="main">
+      
+      <div id="scoreArea">
+ 
+        <span id="italic">Score</span> <br />
+        <span id="score">0</span>  <br /> <br />
+        
+        <span id="italic">Lines</span> <br />
+        <span id="nbLine">0</span> <br /> <br />
+        
+        <span id="italic">Level</span> <br />
+        <span id="level">0</span>
+      </div>
+    
+      <canvas id="canvasGameboard" width="200" height="400"></canvas>
+      
+      <div id="nextShape">
+        <canvas id="canvasNextShape" width="80" height="80"></canvas>
+      </div>
+      
+      <div id="controls">
+          [<span id="leftKey"></span>] Left ; [<span id="rightKey"></span>] Right ; 
+          [<span id="rotateKey"></span>] Rotate ; [<span id="downKey"></span>] Down ; 
+          [<span id="pauseKey"></span>] Pause
+      </div>
+    
+    </div>
+  </body>
+</html>

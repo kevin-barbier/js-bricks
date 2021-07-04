@@ -1,0 +1,5 @@
+<map id="Score::win" name="Score::win">
+<area shape="rect" id="node2" href="$class_score.html#aa8886c71d6bab0ac2443db7fc60e2ad0" title="Get accessor for the score propertie. " alt="" coords="363,25,459,52"/>
+<area shape="rect" id="node3" href="$class_score.html#a76c085672e81a184feb6bf6a8fdc154b" title="[STATIC CONSTANT] Number of line for each next level " alt="" coords="137,25,315,52"/>
+<area shape="rect" id="node4" href="$class_score.html#af06cfff7e27174ef39a5184a95438535" title="Update the text areas with the current score, level and number of lines. " alt="" coords="145,76,307,103"/>
+</map>

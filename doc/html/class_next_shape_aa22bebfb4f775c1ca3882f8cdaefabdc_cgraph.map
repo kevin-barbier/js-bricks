@@ -1,0 +1,6 @@
+<map id="NextShape::draw" name="NextShape::draw">
+<area shape="rect" id="node2" href="$class_next_shape.html#a3299c5fbd98dd09aaf0625ad7036e6ba" title="Return the height of the shape (in number of bricks) " alt="" coords="181,5,311,32"/>
+<area shape="rect" id="node3" href="$class_next_shape.html#a4c372e2356a0df338c2eff34b62ec308" title="Get accessor for the shape propertie. " alt="" coords="364,56,495,83"/>
+<area shape="rect" id="node4" href="$class_next_shape.html#a3d40df005e8494174e24c36cd140f8a1" title="Return the width of the shape (in number of bricks) " alt="" coords="183,107,309,133"/>
+<area shape="rect" id="node5" href="$class_next_shape.html#a5741171d49265193f4edf835abfdb141" title="Get accessor for the position propertie. " alt="" coords="176,157,316,184"/>
+</map>

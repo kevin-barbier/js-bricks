@@ -1,0 +1,4 @@
+<map id="Gameboard::checkCollision" name="Gameboard::checkCollision">
+<area shape="rect" id="node2" href="$class_gameboard.html#a32c8b01b151e5b61b440ffa03b742669" title="[STATIC CONSTANT] Height in number of square of the gameboard " alt="" coords="236,5,384,32"/>
+<area shape="rect" id="node3" href="$class_gameboard.html#a7372f27201aa2411c9960ab87f8576b4" title="[STATIC CONSTANT] Width in number of square of the gameboard " alt="" coords="239,56,381,83"/>
+</map>

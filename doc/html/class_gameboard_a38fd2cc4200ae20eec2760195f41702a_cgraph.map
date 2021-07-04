@@ -1,0 +1,8 @@
+<map id="Gameboard::currentShape" name="Gameboard::currentShape">
+<area shape="rect" id="node2" href="$class_gameboard.html#a97e58042cab0778fbcc4a896e4cdfb7d" title="Get accessor for the currentShape propertie. " alt="" coords="401,5,576,32"/>
+<area shape="rect" id="node3" href="$class_gameboard.html#a7372f27201aa2411c9960ab87f8576b4" title="[STATIC CONSTANT] Width in number of square of the gameboard " alt="" coords="417,56,560,83"/>
+<area shape="rect" id="node4" href="$class_gameboard.html#aa7aec3284f807621215e21214b3cb7fa" title="Draw the gameboard on his drawing area. " alt="" coords="228,107,353,133"/>
+<area shape="rect" id="node5" href="$class_gameboard.html#a6717ccd036ad7d2fdcccdd15a7f11b9c" title="Get accessor for the drawingArea propertie. " alt="" coords="404,107,573,133"/>
+<area shape="rect" id="node6" href="$class_gameboard.html#a32c8b01b151e5b61b440ffa03b742669" title="[STATIC CONSTANT] Height in number of square of the gameboard " alt="" coords="415,157,563,184"/>
+<area shape="rect" id="node7" href="$class_gameboard.html#a5ea2a3a8cc2f090f16299d938fb4ba76" title="Get accessor for the gameboard propertie. " alt="" coords="408,208,569,235"/>
+</map>

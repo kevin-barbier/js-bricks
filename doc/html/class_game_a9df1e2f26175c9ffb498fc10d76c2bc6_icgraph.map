@@ -1,0 +1,5 @@
+<map id="Game::score" name="Game::score">
+<area shape="rect" id="node2" href="$class_game.html#ab662bb309b9223ba2db379cd19cc09ea" title="Constructor. " alt="" coords="153,5,284,32"/>
+<area shape="rect" id="node3" href="$class_game.html#af0b4f05815b92e70bd82734e3f9d4363" title="Game::launchTimer" alt="" coords="151,56,287,83"/>
+<area shape="rect" id="node4" href="$class_game.html#ae4640774af83364aca9408c5255fa341" title="Create a new game (reset everything) " alt="" coords="335,81,459,108"/>
+</map>

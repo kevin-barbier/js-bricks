@@ -1,0 +1,7 @@
+<map id="Shape::centerAxisX" name="Shape::centerAxisX">
+<area shape="rect" id="node2" href="$class_shape.html#aef1fff2d840fae62ebc02396e46f8bab" title="Get accessor for the position propertie. " alt="" coords="192,5,304,32"/>
+<area shape="rect" id="node3" href="$class_shape.html#a429780268832435341860cb172938662" title="Return the width of the shape (in number of bricks) with the current rotation. " alt="" coords="199,56,297,83"/>
+<area shape="rect" id="node4" href="$class_shape.html#a524579bfe094f6bee0313432ec42d582" title="Return the shape data with the current rotation. " alt="" coords="352,56,455,83"/>
+<area shape="rect" id="node5" href="$class_shape.html#a6c999ccc68c318fbdd42ccbe4fb72918" title="Return the shape data array of size 4: one for each rotation. " alt="" coords="503,31,633,57"/>
+<area shape="rect" id="node6" href="$class_shape.html#a779276defbe6d5cd5d5810494726751e" title="Get accessor for the rotation propertie. " alt="" coords="513,81,623,108"/>
+</map>

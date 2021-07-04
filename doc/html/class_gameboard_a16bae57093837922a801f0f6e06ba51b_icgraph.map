@@ -1,0 +1,3 @@
+<map id="Gameboard::checkCollision" name="Gameboard::checkCollision">
+<area shape="rect" id="node2" href="$class_gameboard.html#ae1ba28f865693d01eda6535bef3e3709" title="Check if the game is lost. " alt="" coords="236,5,401,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="NextShape::rotate" name="NextShape::rotate">
+<area shape="rect" id="node2" href="$class_next_shape.html#a3d40df005e8494174e24c36cd140f8a1" title="Return the width of the shape (in number of bricks) " alt="" coords="183,5,310,32"/>
+<area shape="rect" id="node3" href="$class_next_shape.html#a4c372e2356a0df338c2eff34b62ec308" title="Get accessor for the shape propertie. " alt="" coords="360,56,491,83"/>
+<area shape="rect" id="node4" href="$class_next_shape.html#a3299c5fbd98dd09aaf0625ad7036e6ba" title="Return the height of the shape (in number of bricks) " alt="" coords="181,107,312,133"/>
+</map>

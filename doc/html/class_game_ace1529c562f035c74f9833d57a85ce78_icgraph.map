@@ -1,0 +1,4 @@
+<map id="Game::moveDownCurrentShape" name="Game::moveDownCurrentShape">
+<area shape="rect" id="node2" href="$class_game.html#af0b4f05815b92e70bd82734e3f9d4363" title="Game::launchTimer" alt="" coords="264,5,400,32"/>
+<area shape="rect" id="node3" href="$class_game.html#ae4640774af83364aca9408c5255fa341" title="Create a new game (reset everything) " alt="" coords="448,5,572,32"/>
+</map>

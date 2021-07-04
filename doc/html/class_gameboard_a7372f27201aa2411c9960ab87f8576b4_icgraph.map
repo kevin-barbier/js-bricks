@@ -1,0 +1,9 @@
+<map id="Gameboard::WIDTH" name="Gameboard::WIDTH">
+<area shape="rect" id="node2" href="$class_gameboard.html#ac925ad87918d08829397e8a00d37571d" title="Check collision of the shape given in parameter with bricks of the gameboard. " alt="" coords="206,5,389,32"/>
+<area shape="rect" id="node6" href="$class_gameboard.html#ab932319ce17c70e47584fc0d7d31a9e5" title="Gameboard::removeCompleted\lLines" alt="" coords="196,158,399,199"/>
+<area shape="rect" id="node7" href="$class_gameboard.html#aa7aec3284f807621215e21214b3cb7fa" title="Draw the gameboard on his drawing area. " alt="" coords="235,56,360,83"/>
+<area shape="rect" id="node8" href="$class_gameboard.html#a38fd2cc4200ae20eec2760195f41702a" title="Set accessor for the currentShape propertie. " alt="" coords="464,107,639,133"/>
+<area shape="rect" id="node3" href="$class_gameboard.html#ad4e0a9bff40b6a0503d6362d3aacbba6" title="Check if the game is lost. " alt="" coords="469,5,634,32"/>
+<area shape="rect" id="node4" href="$class_gameboard.html#a3e416ff23db16568777eb2ec28124ca5" title="If possible move the current shape of specified offsets/rotation and redraw the gameboard. " alt="" coords="447,56,656,83"/>
+<area shape="rect" id="node5" href="$class_gameboard.html#a311b2e788a9c497414f481982fcaf735" title="Move down the current shape. " alt="" coords="704,99,911,141"/>
+</map>

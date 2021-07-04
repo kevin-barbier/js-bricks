@@ -1,0 +1,4 @@
+<map id="Game::constructor" name="Game::constructor">
+<area shape="rect" id="node2" href="$class_game.html#a9df1e2f26175c9ffb498fc10d76c2bc6" title="Get accessor for the score propertie. " alt="" coords="227,5,324,32"/>
+<area shape="rect" id="node3" href="$class_game.html#abde2bc6f894c4cd4f32b5c01205be040" title="Init keyboard listener who is attached/detached by attachKeyboardEvent/removeKeyboardEvent. " alt="" coords="184,56,367,83"/>
+</map>

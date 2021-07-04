@@ -1,0 +1,7 @@
+<map id="Gameboard::currentShape" name="Gameboard::currentShape">
+<area shape="rect" id="node2" href="$class_gameboard.html#ad4e0a9bff40b6a0503d6362d3aacbba6" title="Check if the game is lost. " alt="" coords="228,5,393,32"/>
+<area shape="rect" id="node3" href="$class_gameboard.html#a311b2e788a9c497414f481982fcaf735" title="Move down the current shape. " alt="" coords="699,74,905,115"/>
+<area shape="rect" id="node4" href="$class_gameboard.html#a3e416ff23db16568777eb2ec28124ca5" title="If possible move the current shape of specified offsets/rotation and redraw the gameboard. " alt="" coords="441,107,651,133"/>
+<area shape="rect" id="node5" href="$class_gameboard.html#aa7aec3284f807621215e21214b3cb7fa" title="Draw the gameboard on his drawing area. " alt="" coords="248,157,373,184"/>
+<area shape="rect" id="node6" href="$class_gameboard.html#a38fd2cc4200ae20eec2760195f41702a" title="Set accessor for the currentShape propertie. " alt="" coords="459,183,633,209"/>
+</map>

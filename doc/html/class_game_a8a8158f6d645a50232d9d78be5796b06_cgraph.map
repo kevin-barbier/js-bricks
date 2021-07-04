@@ -1,0 +1,10 @@
+<map id="Game::goGoGo" name="Game::goGoGo">
+<area shape="rect" id="node2" href="$class_game.html#ae4640774af83364aca9408c5255fa341" title="Create a new game (reset everything) " alt="" coords="203,60,327,87"/>
+<area shape="rect" id="node9" href="$class_game.html#ad8b8bc73eec2ae67117f2868b4922a85" title="Attach the callback for all keypress and keyup events. " alt="" coords="167,111,364,137"/>
+<area shape="rect" id="node3" href="$class_math.html#a7efa35bc33b5d22e78cf1d3560d61fc6" title="Return a random integer between min and max included. " alt="" coords="865,9,1006,36"/>
+<area shape="rect" id="node4" href="$class_gameboard.html#a7372f27201aa2411c9960ab87f8576b4" title="[STATIC CONSTANT] Width in number of square of the gameboard " alt="" coords="412,35,555,61"/>
+<area shape="rect" id="node5" href="$class_game.html#af0b4f05815b92e70bd82734e3f9d4363" title="Game::launchTimer" alt="" coords="415,85,551,112"/>
+<area shape="rect" id="node8" href="$class_game.html#a501449602a3cebe911156876041d4f14" title="Draw all drawing areas of the game (gameboard and !!!!!!!!!!!!!!!!!!!!!! " alt="" coords="437,136,530,163"/>
+<area shape="rect" id="node6" href="$class_game.html#ace1529c562f035c74f9833d57a85ce78" title="Move down current shape. " alt="" coords="603,72,813,99"/>
+<area shape="rect" id="node7" href="$class_gameboard.html#a32c8b01b151e5b61b440ffa03b742669" title="[STATIC CONSTANT] Height in number of square of the gameboard " alt="" coords="861,72,1009,99"/>
+</map>

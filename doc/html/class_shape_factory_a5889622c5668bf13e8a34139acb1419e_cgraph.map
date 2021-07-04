@@ -1,0 +1,5 @@
+<map id="ShapeFactory::buildRandomShape" name="ShapeFactory::buildRandomShape">
+<area shape="rect" id="node2" href="$class_math.html#a7efa35bc33b5d22e78cf1d3560d61fc6" title="Return a random integer between min and max included. " alt="" coords="257,5,398,32"/>
+<area shape="rect" id="node3" href="$class_shape_factory.html#acdf5c7eb59fa0a4ea9a16afdd733e1ff" title="Return the number of shapes in the stock. " alt="" coords="243,56,412,83"/>
+<area shape="rect" id="node4" href="$class_shape_factory.html#a3b58b3f7f47d64d5abebadd260f56c29" title="Build a shape of index &lt;id&gt; and return it. " alt="" coords="240,107,415,133"/>
+</map>

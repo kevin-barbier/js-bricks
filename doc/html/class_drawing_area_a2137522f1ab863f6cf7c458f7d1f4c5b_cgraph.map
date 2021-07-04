@@ -1,0 +1,5 @@
+<map id="DrawingArea::clear" name="DrawingArea::clear">
+<area shape="rect" id="node2" href="$class_drawing_area.html#ae34b3434ef935512ab2a216b9a65b2a9" title="Get accessor for the context propertie. " alt="" coords="375,22,523,49"/>
+<area shape="rect" id="node3" href="$class_drawing_area.html#a08053d14a6862531a3b4bf99728d596d" title="Return the width of the drawing area. " alt="" coords="189,22,325,49"/>
+<area shape="rect" id="node4" href="$class_drawing_area.html#aff692bdc5e12dbbeebcae1f99e609ae7" title="Return the height of the drawing area. " alt="" coords="187,73,327,100"/>
+</map>

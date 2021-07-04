@@ -1,0 +1,7 @@
+<map id="Shape::constructor" name="Shape::constructor">
+<area shape="rect" id="node2" href="$class_shape.html#aef1fff2d840fae62ebc02396e46f8bab" title="Get accessor for the position propertie. " alt="" coords="212,5,324,32"/>
+<area shape="rect" id="node3" href="$class_shape.html#aea627769c6ce9f24be9401810a2382c5" title="Get accessor for the color propertie. " alt="" coords="221,56,315,83"/>
+<area shape="rect" id="node4" href="$class_shape.html#ae5cc046dd2aaa44cbac6189d2f3c06ac" title="Return a random color. " alt="" coords="185,107,351,133"/>
+<area shape="rect" id="node6" href="$class_shape.html#a779276defbe6d5cd5d5810494726751e" title="Get accessor for the rotation propertie. " alt="" coords="213,157,323,184"/>
+<area shape="rect" id="node5" href="$class_math.html#a7efa35bc33b5d22e78cf1d3560d61fc6" title="Return a random integer between min and max included. " alt="" coords="399,107,540,133"/>
+</map>

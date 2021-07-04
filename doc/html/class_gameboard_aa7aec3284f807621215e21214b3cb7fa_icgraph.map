@@ -1,0 +1,5 @@
+<map id="Gameboard::draw" name="Gameboard::draw">
+<area shape="rect" id="node2" href="$class_gameboard.html#a3e416ff23db16568777eb2ec28124ca5" title="If possible move the current shape of specified offsets/rotation and redraw the gameboard. " alt="" coords="179,13,388,39"/>
+<area shape="rect" id="node4" href="$class_gameboard.html#a38fd2cc4200ae20eec2760195f41702a" title="Set accessor for the currentShape propertie. " alt="" coords="196,63,371,90"/>
+<area shape="rect" id="node3" href="$class_gameboard.html#a311b2e788a9c497414f481982fcaf735" title="Move down the current shape. " alt="" coords="436,5,643,47"/>
+</map>

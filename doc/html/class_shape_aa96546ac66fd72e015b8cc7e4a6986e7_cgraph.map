@@ -1,0 +1,5 @@
+<map id="Shape::height" name="Shape::height">
+<area shape="rect" id="node2" href="$class_shape.html#a524579bfe094f6bee0313432ec42d582" title="Return the shape data with the current rotation. " alt="" coords="156,31,259,57"/>
+<area shape="rect" id="node3" href="$class_shape.html#a6c999ccc68c318fbdd42ccbe4fb72918" title="Return the shape data array of size 4: one for each rotation. " alt="" coords="307,5,437,32"/>
+<area shape="rect" id="node4" href="$class_shape.html#a779276defbe6d5cd5d5810494726751e" title="Get accessor for the rotation propertie. " alt="" coords="317,56,427,83"/>
+</map>

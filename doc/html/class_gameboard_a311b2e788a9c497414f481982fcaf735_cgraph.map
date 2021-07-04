@@ -1,0 +1,12 @@
+<map id="Gameboard::moveDownCurrentShape" name="Gameboard::moveDownCurrentShape">
+<area shape="rect" id="node2" href="$class_gameboard.html#a3e416ff23db16568777eb2ec28124ca5" title="If possible move the current shape of specified offsets/rotation and redraw the gameboard. " alt="" coords="260,135,469,162"/>
+<area shape="rect" id="node7" href="$class_gameboard.html#a97e58042cab0778fbcc4a896e4cdfb7d" title="Get accessor for the currentShape propertie. " alt="" coords="768,219,943,246"/>
+<area shape="rect" id="node10" href="$class_gameboard.html#a8df828e55477542c8972f652c9325cda" title="Copy a shape in the gameboard. " alt="" coords="283,211,446,238"/>
+<area shape="rect" id="node11" href="$class_gameboard.html#ab932319ce17c70e47584fc0d7d31a9e5" title="Gameboard::removeCompleted\lLines" alt="" coords="517,5,720,47"/>
+<area shape="rect" id="node3" href="$class_gameboard.html#ac925ad87918d08829397e8a00d37571d" title="Check collision of the shape given in parameter with bricks of the gameboard. " alt="" coords="527,71,710,98"/>
+<area shape="rect" id="node8" href="$class_gameboard.html#aa7aec3284f807621215e21214b3cb7fa" title="Draw the gameboard on his drawing area. " alt="" coords="556,122,681,149"/>
+<area shape="rect" id="node4" href="$class_gameboard.html#a32c8b01b151e5b61b440ffa03b742669" title="[STATIC CONSTANT] Height in number of square of the gameboard " alt="" coords="781,67,929,94"/>
+<area shape="rect" id="node5" href="$class_gameboard.html#a7372f27201aa2411c9960ab87f8576b4" title="[STATIC CONSTANT] Width in number of square of the gameboard " alt="" coords="784,17,927,43"/>
+<area shape="rect" id="node6" href="$class_gameboard.html#a5ea2a3a8cc2f090f16299d938fb4ba76" title="Get accessor for the gameboard propertie. " alt="" coords="775,118,936,145"/>
+<area shape="rect" id="node9" href="$class_gameboard.html#a6717ccd036ad7d2fdcccdd15a7f11b9c" title="Get accessor for the drawingArea propertie. " alt="" coords="771,169,940,195"/>
+</map>

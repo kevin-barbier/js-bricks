@@ -1,0 +1,5 @@
+<map id="NextShape::next" name="NextShape::next">
+<area shape="rect" id="node2" href="$class_next_shape.html#a9342cf974c4eb6446f426c35f9280a48" title="[STATIC CONSTANT] Width in number of square of the next shape drawing area " alt="" coords="177,5,317,32"/>
+<area shape="rect" id="node3" href="$class_next_shape.html#a679fc605c6c04a7fed61a36929b89cd1" title="[STATIC CONSTANT] Height in number of square of the next shape drawing area " alt="" coords="173,56,320,83"/>
+<area shape="rect" id="node4" href="$class_next_shape.html#a76aeb7c2436d3e25ea4a262a9fc53b45" title="Draw the next shape on his drawing area. " alt="" coords="185,107,308,133"/>
+</map>

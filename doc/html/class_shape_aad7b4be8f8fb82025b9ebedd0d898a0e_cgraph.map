@@ -1,0 +1,9 @@
+<map id="Shape::draw" name="Shape::draw">
+<area shape="rect" id="node2" href="$class_shape.html#aa96546ac66fd72e015b8cc7e4a6986e7" title="Return the height of the shape (in number of bricks) with the current rotation. " alt="" coords="153,5,255,32"/>
+<area shape="rect" id="node3" href="$class_shape.html#a524579bfe094f6bee0313432ec42d582" title="Return the shape data with the current rotation. " alt="" coords="308,56,411,83"/>
+<area shape="rect" id="node6" href="$class_shape.html#a429780268832435341860cb172938662" title="Return the width of the shape (in number of bricks) with the current rotation. " alt="" coords="155,107,253,133"/>
+<area shape="rect" id="node7" href="$class_shape.html#aef1fff2d840fae62ebc02396e46f8bab" title="Get accessor for the position propertie. " alt="" coords="148,157,260,184"/>
+<area shape="rect" id="node8" href="$class_shape.html#aea627769c6ce9f24be9401810a2382c5" title="Get accessor for the color propertie. " alt="" coords="157,208,251,235"/>
+<area shape="rect" id="node4" href="$class_shape.html#a6c999ccc68c318fbdd42ccbe4fb72918" title="Return the shape data array of size 4: one for each rotation. " alt="" coords="459,31,589,57"/>
+<area shape="rect" id="node5" href="$class_shape.html#a779276defbe6d5cd5d5810494726751e" title="Get accessor for the rotation propertie. " alt="" coords="469,81,579,108"/>
+</map>

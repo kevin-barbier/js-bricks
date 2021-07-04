@@ -1,0 +1,5 @@
+<map id="Gameboard::constructor" name="Gameboard::constructor">
+<area shape="rect" id="node2" href="$class_gameboard.html#a6717ccd036ad7d2fdcccdd15a7f11b9c" title="Get accessor for the drawingArea propertie. " alt="" coords="216,5,385,32"/>
+<area shape="rect" id="node3" href="$class_gameboard.html#a5ea2a3a8cc2f090f16299d938fb4ba76" title="Get accessor for the gameboard propertie. " alt="" coords="220,56,381,83"/>
+<area shape="rect" id="node4" href="$class_gameboard.html#a32c8b01b151e5b61b440ffa03b742669" title="[STATIC CONSTANT] Height in number of square of the gameboard " alt="" coords="227,107,375,133"/>
+</map>

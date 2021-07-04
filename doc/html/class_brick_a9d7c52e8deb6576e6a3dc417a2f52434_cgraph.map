@@ -1,0 +1,5 @@
+<map id="Brick::draw" name="Brick::draw">
+<area shape="rect" id="node2" href="$class_brick.html#aaa61f5bc0c8f5c5dd96ca067091062fb" title="Get accessor for the color propertie. " alt="" coords="183,5,271,32"/>
+<area shape="rect" id="node3" href="$class_brick.html#aa22c8deff61f91302b9e3e210475f150" title="[STATIC CONSTANT] Square side length in pixels " alt="" coords="154,56,301,83"/>
+<area shape="rect" id="node4" href="$class_brick.html#ae7a42633ffa1fc5f98bc6473450e0f45" title="[STATIC CONSTANT] Size of the border in pixels " alt="" coords="141,107,313,133"/>
+</map>

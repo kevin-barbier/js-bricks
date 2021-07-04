@@ -1,0 +1,6 @@
+<map id="NextShape::constructor" name="NextShape::constructor">
+<area shape="rect" id="node2" href="$class_next_shape.html#a95dc0da469f2fcd8ec4bed5a1c9496e0" title="Create a new next shape and return the previous next shape. " alt="" coords="213,56,333,83"/>
+<area shape="rect" id="node3" href="$class_next_shape.html#a9342cf974c4eb6446f426c35f9280a48" title="[STATIC CONSTANT] Width in number of square of the next shape drawing area " alt="" coords="385,5,525,32"/>
+<area shape="rect" id="node4" href="$class_next_shape.html#a679fc605c6c04a7fed61a36929b89cd1" title="[STATIC CONSTANT] Height in number of square of the next shape drawing area " alt="" coords="381,56,528,83"/>
+<area shape="rect" id="node5" href="$class_next_shape.html#a76aeb7c2436d3e25ea4a262a9fc53b45" title="Draw the next shape on his drawing area. " alt="" coords="393,107,516,133"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Shape::position" name="Shape::position">
+<area shape="rect" id="node2" href="$class_shape.html#a09a0cc88f7413bdc086bc13000e7b5c5" title="Constructor. " alt="" coords="169,5,301,32"/>
+<area shape="rect" id="node3" href="$class_shape.html#a964df88e9244b8290edcace947cffdad" title="Moves one position to the left. " alt="" coords="174,56,295,83"/>
+<area shape="rect" id="node4" href="$class_shape.html#ab70ac93e2131c6f11a9fd4e1e02dffa3" title="Moves one position to the right. " alt="" coords="169,107,300,133"/>
+<area shape="rect" id="node5" href="$class_shape.html#ad5e54493b0fd272f4b686f5e94eac626" title="Moves down of one position. " alt="" coords="168,157,301,184"/>
+<area shape="rect" id="node6" href="$class_shape.html#a60ad93f1d8b57cec99a0b2156d226e80" title="Set the X position to the center of an X axis of width &lt;logicWidth&gt; " alt="" coords="165,208,304,235"/>
+<area shape="rect" id="node7" href="$class_shape.html#aa54e253d21e49146ecf345a3a4715823" title="Set the Y position to the center of an Y axis of height &lt;logicHeight&gt; " alt="" coords="165,259,304,285"/>
+<area shape="rect" id="node8" href="$class_shape.html#aad7b4be8f8fb82025b9ebedd0d898a0e" title="Draw the shape on the drawing area. " alt="" coords="187,309,282,336"/>
+</map>

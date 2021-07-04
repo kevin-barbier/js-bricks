@@ -1,0 +1,5 @@
+<map id="Math::getRandomInt" name="Math::getRandomInt">
+<area shape="rect" id="node2" href="$class_shape.html#ae5cc046dd2aaa44cbac6189d2f3c06ac" title="Return a random color. " alt="" coords="205,5,371,32"/>
+<area shape="rect" id="node4" href="$class_shape_factory.html#a5889622c5668bf13e8a34139acb1419e" title="Build a random shape and return it. " alt="" coords="195,57,381,98"/>
+<area shape="rect" id="node3" href="$class_shape.html#a09a0cc88f7413bdc086bc13000e7b5c5" title="Constructor. " alt="" coords="429,5,561,32"/>
+</map>
